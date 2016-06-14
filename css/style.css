@@ -16,47 +16,69 @@ main {
 .left {
   width: 40%;
   float: left;
-  padding-top: 20px;
+  padding-top: 40px;
+  padding-left: 30px;
+  padding-right: 15px;
+  padding-bottom: 10px;
+  background-color: #DFE0DA;
+
 }
 
 .right {
   width: 40%;
-  float: left;
+  float: right;
+  padding-top: 10px;
+  padding-left: 30px;
+  padding-right: 15px;
+  padding-bottom: 10px;
+
 }
 
 .headphones_section {
   width: 100%;
   clear: both;
+  background-color: #DFE0DA;
+
 }
 
 #headphones_picture {
   width: 40%;
   float: left;
   margin: 20px 0px 0px 0px;
+
 }
 
 .headphones_section img {
   width: 100%;
+  padding-top: 10px;
 }
 
 .laptop_section {
+  margin-bottom: 15px;
   width: 100%;
   clear: both;
+  background-color: #DFE0DA;
+
+
 }
 
 #laptop_picture {
   width: 40%;
   float: left;
   margin: 20px 0px 0px 0px;
+
 }
 
 .laptop_section img {
   width: 100%;
+  padding-lef: 20px;
 }
 
 .window_section {
   width: 100%;
   clear: both;
+  background-color: #DFE0DA;
+
 }
 
 .window_section img {
@@ -67,6 +89,7 @@ main {
   width: 40%;
   float: left;
   margin: 20px 0px 0px 0px;
+
 }
 
 #text {
